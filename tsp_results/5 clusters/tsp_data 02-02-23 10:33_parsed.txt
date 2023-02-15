@@ -1,0 +1,678 @@
+file: pr439
+	method: smt
+	distance: 131033.98246131874
+	time: 22.176982641220093
+
+	method: concord
+	distance: 124732.65490027236
+	time: 0.9223034381866455
+
+
+file: gr96
+	method: smt
+	distance: 638.2353123486487
+	time: 6.361627817153931
+
+	method: concord
+	distance: 635.6674667481836
+	time: 0.5671024322509766
+
+
+file: rd100
+	method: smt
+	distance: 10422.692261488695
+	time: 6.611796855926514
+
+	method: concord
+	distance: 9954.181327929766
+	time: 0.585261344909668
+
+
+file: pcb442
+	method: smt
+	distance: 60564.226393702396
+	time: 22.5704927444458
+
+	method: concord
+	distance: 55056.0830100356
+	time: 0.8082492351531982
+
+
+file: d493New
+	method: smt
+	distance: 37398.77708194667
+	time: 24.65093469619751
+
+	method: concord
+	distance: 34251.99465871929
+	time: 1.1021227836608887
+
+
+file: gil262
+	method: smt
+	distance: 2850.644280499546
+	time: 13.920326948165894
+
+	method: concord
+	distance: 2697.4944374908023
+	time: 0.687617301940918
+
+
+file: lin105
+	method: smt
+	distance: 20357.35944384748
+	time: 6.981412172317505
+
+	method: concord
+	distance: 20216.089089265108
+	time: 0.6403970718383789
+
+
+file: fl417
+	method: smt
+	distance: 18205.027789470943
+	time: 21.49302840232849
+
+	method: concord
+	distance: 17790.36819853527
+	time: 2.140801191329956
+
+
+file: tsp225
+	method: smt
+	distance: 4849.523534030359
+	time: 12.485756874084473
+
+	method: concord
+	distance: 4613.470735129219
+	time: 0.6713976860046387
+
+
+file: fl1400
+	method: smt
+	distance: 27454.769198456317
+	time: 68.00406694412231
+
+	method: concord
+	distance: 25594.55545424629
+	time: 6.706072807312012
+
+
+file: nrw1379
+	method: smt
+	distance: 69241.07483280037
+	time: 67.11775326728821
+
+	method: concord
+	distance: 58941.15488739546
+	time: 6.852848768234253
+
+
+file: kroA150
+	method: smt
+	distance: 32417.644199885235
+	time: 8.850565195083618
+
+	method: concord
+	distance: 31821.105560724194
+	time: 0.6201603412628174
+
+
+file: pcb1173
+	method: smt
+	distance: 68316.95788718121
+	time: 56.806122064590454
+
+	method: concord
+	distance: 60574.028465771735
+	time: 13.899070024490356
+
+
+file: d198
+	method: smt
+	distance: 21374.259953575827
+	time: 11.106370210647583
+
+	method: concord
+	distance: 20874.804972837945
+	time: 0.7295820713043213
+
+
+file: ch130
+	method: smt
+	distance: 7552.4272258165765
+	time: 7.996451377868652
+
+	method: concord
+	distance: 7304.885309741938
+	time: 0.617781400680542
+
+
+file: kroB100
+	method: smt
+	distance: 30744.872920504975
+	time: 6.696314811706543
+
+	method: concord
+	distance: 30297.19599164404
+	time: 0.632990837097168
+
+
+file: u1060
+	method: smt
+	distance: 268865.5161977013
+	time: 51.240514278411865
+
+	method: concord
+	distance: 244083.83335689822
+	time: 3.349526882171631
+
+
+file: berlin52
+	method: smt
+	distance: 9885.162224800539
+	time: 4.591828107833862
+
+	method: concord
+	distance: 9841.28902411213
+	time: 0.6103839874267578
+
+
+file: eil51
+	method: smt
+	distance: 545.5719087346862
+	time: 4.3198018074035645
+
+	method: concord
+	distance: 532.8974069944906
+	time: 0.5680458545684814
+
+
+file: rl1304
+	method: smt
+	distance: 350525.7137223543
+	time: 62.440043449401855
+
+	method: concord
+	distance: 282827.03823747317
+	time: 4.5291759967803955
+
+
+file: u724
+	method: smt
+	distance: 48552.05938505691
+	time: 35.78393244743347
+
+	method: concord
+	distance: 44575.01682839109
+	time: 3.046210289001465
+
+
+file: kroD100
+	method: smt
+	distance: 28845.894085528143
+	time: 6.884774208068848
+
+	method: concord
+	distance: 28316.50210800826
+	time: 0.6064345836639404
+
+
+file: linhp318
+	method: smt
+	distance: 52107.58590961305
+	time: 16.75577998161316
+
+	method: concord
+	distance: 49000.924235734004
+	time: 0.8371684551239014
+
+
+file: pr299
+	method: smt
+	distance: 63860.354328557114
+	time: 15.770013570785522
+
+	method: concord
+	distance: 59373.30430114498
+	time: 0.7481188774108887
+
+
+file: rd400
+	method: smt
+	distance: 18055.270535528314
+	time: 20.592472314834595
+
+	method: concord
+	distance: 16458.356903062613
+	time: 0.7870519161224365
+
+
+file: gr202
+	method: smt
+	distance: 650.0362701006684
+	time: 11.505341053009033
+
+	method: concord
+	distance: 618.3807399618627
+	time: 0.7228045463562012
+
+
+file: vm1084
+	method: smt
+	distance: 290878.7813455796
+	time: 52.506895303726196
+
+	method: concord
+	distance: 260402.58753720616
+	time: 2.6666030883789062
+
+
+file: rat575
+	method: smt
+	distance: 8032.791797313749
+	time: 28.89736580848694
+
+	method: concord
+	distance: 7280.466925147257
+	time: 0.8817541599273682
+
+
+file: ch150
+	method: smt
+	distance: 7999.985157867517
+	time: 8.86556887626648
+
+	method: concord
+	distance: 7602.798018853247
+	time: 0.595055103302002
+
+
+file: pr107
+	method: smt
+	distance: 81115.21382561434
+	time: 7.0169336795806885
+
+	method: concord
+	distance: 80399.3452559719
+	time: 0.6288394927978516
+
+
+file: kroB200
+	method: smt
+	distance: 36556.64844988417
+	time: 11.3632230758667
+
+	method: concord
+	distance: 35357.65562812088
+	time: 0.6798274517059326
+
+
+file: a280
+	method: smt
+	distance: 3242.421230867883
+	time: 14.560394048690796
+
+	method: concord
+	distance: 3047.0134222591823
+	time: 0.7581489086151123
+
+
+file: d1291
+	method: smt
+	distance: 64878.24132545727
+	time: 62.06257724761963
+
+	method: concord
+	distance: 55748.91428922762
+	time: 19.938958644866943
+
+
+file: gr229
+	method: smt
+	distance: 2306.011274357782
+	time: 13.005102157592773
+
+	method: concord
+	distance: 2241.9306211052412
+	time: 0.8334076404571533
+
+
+file: pr264
+	method: smt
+	distance: 70959.69888672922
+	time: 14.328003883361816
+
+	method: concord
+	distance: 67781.77747802318
+	time: 0.9067518711090088
+
+
+file: pr76
+	method: smt
+	distance: 140755.4839337309
+	time: 5.601119041442871
+
+	method: concord
+	distance: 138643.61753935926
+	time: 0.5961785316467285
+
+
+file: d493
+	method: smt
+	distance: 40357.44098683347
+	time: 25.241145133972168
+
+	method: concord
+	distance: 37860.99465871929
+	time: 1.0858948230743408
+
+
+file: dsj1000
+	method: smt
+	distance: 23582760.72962435
+	time: 49.963194131851196
+
+	method: concord
+	distance: 21008036.714097165
+	time: 2.830839157104492
+
+
+file: pr136
+	method: smt
+	distance: 123337.39277170491
+	time: 8.62255311012268
+
+	method: concord
+	distance: 120011.17533646405
+	time: 0.6523873805999756
+
+
+file: rat195
+	method: smt
+	distance: 2824.6004154913694
+	time: 11.629266262054443
+
+	method: concord
+	distance: 2702.5935428063876
+	time: 0.6339015960693359
+
+
+file: att532
+	method: smt
+	distance: 99833.16063609338
+	time: 27.193618059158325
+
+	method: concord
+	distance: 93769.13827757517
+	time: 0.9780528545379639
+
+
+file: kroA100
+	method: smt
+	distance: 29701.479926172342
+	time: 6.650695323944092
+
+	method: concord
+	distance: 29120.66023004658
+	time: 0.6228504180908203
+
+
+file: ali535
+	method: smt
+	distance: 2490.185744143764
+	time: 27.81843590736389
+
+	method: concord
+	distance: 2325.9240179260323
+	time: 1.5221269130706787
+
+
+file: kroB150
+	method: smt
+	distance: 35723.16456379971
+	time: 9.048046350479126
+
+	method: concord
+	distance: 34184.527550430634
+	time: 0.6507642269134521
+
+
+file: bier127
+	method: smt
+	distance: 142740.80119963444
+	time: 7.957325458526611
+
+	method: concord
+	distance: 141414.91095361434
+	time: 0.687131404876709
+
+
+file: kroC100
+	method: smt
+	distance: 28667.79352254313
+	time: 6.922420978546143
+
+	method: concord
+	distance: 28343.06113865249
+	time: 0.585968017578125
+
+
+file: eil76
+	method: smt
+	distance: 673.1680831624543
+	time: 5.925568342208862
+
+	method: concord
+	distance: 642.3800673158717
+	time: 0.5941653251647949
+
+
+file: pr124
+	method: smt
+	distance: 86224.0350940531
+	time: 7.850215911865234
+
+	method: concord
+	distance: 84160.70271817397
+	time: 0.6277174949645996
+
+
+file: rl1323
+	method: smt
+	distance: 355572.19701995316
+	time: 64.37070631980896
+
+	method: concord
+	distance: 292037.87814387865
+	time: 24.097341060638428
+
+
+file: p654
+	method: smt
+	distance: 55547.23702042426
+	time: 33.07241940498352
+
+	method: concord
+	distance: 54026.04340222178
+	time: 2.150313138961792
+
+
+file: gr431
+	method: smt
+	distance: 2353.0522214578273
+	time: 22.22728395462036
+
+	method: concord
+	distance: 2245.680863496527
+	time: 1.0742723941802979
+
+
+file: d657
+	method: smt
+	distance: 57165.398753192174
+	time: 34.09201788902283
+
+	method: concord
+	distance: 52643.40301247052
+	time: 1.1529457569122314
+
+
+file: eil101
+	method: smt
+	distance: 772.9351046356352
+	time: 6.830073595046997
+
+	method: concord
+	distance: 737.3531689094892
+	time: 0.5798192024230957
+
+
+file: rat783
+	method: smt
+	distance: 10427.786028735627
+	time: 39.05371356010437
+
+	method: concord
+	distance: 9372.528772699981
+	time: 1.8726441860198975
+
+
+file: ts225
+	method: smt
+	distance: 154645.9553900128
+	time: 12.838096141815186
+
+	method: concord
+	distance: 153324.72331916948
+	time: 0.727975606918335
+
+
+file: u1432
+	method: smt
+	distance: 176700.7620178125
+	time: 69.34133863449097
+
+	method: concord
+	distance: 159051.64912225414
+	time: 7.206483364105225
+
+
+file: lin318
+	method: smt
+	distance: 52322.49483727106
+	time: 16.90816330909729
+
+	method: concord
+	distance: 49000.924235734004
+	time: 0.8218634128570557
+
+
+file: st70
+	method: smt
+	distance: 873.5753803953195
+	time: 5.190676212310791
+
+	method: concord
+	distance: 869.1961155670917
+	time: 0.5973782539367676
+
+
+file: rat99
+	method: smt
+	distance: 1636.1279873558149
+	time: 6.747340679168701
+
+	method: concord
+	distance: 1555.1668506407525
+	time: 0.6152322292327881
+
+
+file: u159
+	method: smt
+	distance: 58028.887521079865
+	time: 9.530549764633179
+
+	method: concord
+	distance: 56738.1759265017
+	time: 0.6318361759185791
+
+
+file: kroA200
+	method: smt
+	distance: 36888.45782490866
+	time: 11.311256408691406
+
+	method: concord
+	distance: 36046.47905324123
+	time: 0.688835859298706
+
+
+file: u574
+	method: smt
+	distance: 42880.02672397646
+	time: 28.92160964012146
+
+	method: concord
+	distance: 40442.17986179444
+	time: 1.0396602153778076
+
+
+file: pr1002
+	method: smt
+	distance: 303414.23939786106
+	time: 49.21861004829407
+
+	method: concord
+	distance: 278390.267722929
+	time: 2.1751468181610107
+
+
+file: pr152
+	method: smt
+	distance: 116997.68213520246
+	time: 9.088172674179077
+
+	method: concord
+	distance: 115394.761100357
+	time: 0.7964413166046143
+
+
+file: gr137
+	method: smt
+	distance: 906.0430977873349
+	time: 8.73155403137207
+
+	method: concord
+	distance: 881.8776460154838
+	time: 0.6434926986694336
+
+
+file: pr226
+	method: smt
+	distance: 125978.07432462697
+	time: 12.509157180786133
+
+	method: concord
+	distance: 125203.99696530485
+	time: 0.7280700206756592
+
+
+file: pr144
+	method: smt
+	distance: 90627.98995019801
+	time: 8.828948497772217
+
+	method: concord
+	distance: 90421.9816838632
+	time: 0.6105780601501465
+
+
+file: kroE100
+	method: smt
+	distance: 30262.12429769099
+	time: 6.6715919971466064
+
+	method: concord
+	distance: 29506.33400230322
+	time: 0.6159138679504395
